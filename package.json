@@ -1,6 +1,6 @@
 {
-  "name": "diff-dom-props",
-  "version": "1.0.1",
+  "name": "@cfhull/diff-dom-props",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
